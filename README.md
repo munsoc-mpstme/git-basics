@@ -7,3 +7,4 @@ To setup this server, follow these steps:
 
 List of people who attended the workshop:
 Kartik Jain
+Yash Khadepau
